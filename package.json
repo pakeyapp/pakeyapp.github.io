@@ -1,0 +1,11 @@
+{
+  "name": "pakey",
+  "version": "0.1.0",
+  "description": "Pakey is creative games, marketplace, and community.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
